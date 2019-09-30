@@ -1,0 +1,11 @@
+sources:
+{
+	uarttestComponent.c
+}
+requires:
+{
+	device:
+	{
+		[r] /dev/ttyHS1 /dev/ttyHS1
+	}
+}

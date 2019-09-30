@@ -1,0 +1,26 @@
+
+executables:
+{
+	uarttest = ( uarttestComponent )
+}
+
+processes:
+{
+	envVars:
+	{
+		LE_LOG_LEVEL = DEBUG
+	}
+
+	run:
+	{
+		( uarttest )
+	}
+
+	maxCoreDumpFileBytes: 512K
+	maxFileBytes: 512K
+}
+
+
+
+version: 1.0.0
+maxFileSystemBytes: 512K

@@ -1,0 +1,27 @@
+sandboxed:false
+executables:
+{
+	updateapp = ( updateappComponent )
+}
+
+processes:
+{
+	envVars:
+	{
+		LE_LOG_LEVEL = DEBUG
+	}
+
+	run:
+	{
+		( updateapp )
+	}
+
+	maxCoreDumpFileBytes: 512K
+	maxFileBytes: 512K
+}
+
+
+
+
+version: 1.0.0
+maxFileSystemBytes: 512K

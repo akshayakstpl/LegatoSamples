@@ -1,0 +1,14 @@
+# ninja log v5
+0	185	0	/home/akshay/MYFOLDER/devstudio-5.3.1-linux64/workspace/updateapp/Target_Legato_Debug/component/7595049c7b2cfcb3d8ed53acbd3dfbb2/obj/_componentMain.c.o	717161b902e1f39e
+0	226	0	/home/akshay/MYFOLDER/devstudio-5.3.1-linux64/workspace/updateapp/Target_Legato_Debug/component/7595049c7b2cfcb3d8ed53acbd3dfbb2/obj/81db3f1c58444e205a86ee463941933c.o	80bcea737b1410f7
+1	236	0	/home/akshay/MYFOLDER/devstudio-5.3.1-linux64/workspace/updateapp/Target_Legato_Debug/app/updateapp/obj/updateapp/_main.c.o	466d8cbfc8b6d908
+226	279	0	/home/akshay/MYFOLDER/devstudio-5.3.1-linux64/workspace/updateapp/Target_Legato_Debug/staging/read-only/lib/libComponent_updateappComponent.so	a39f4d9d79128b4f
+280	288	0	/home/akshay/MYFOLDER/devstudio-5.3.1-linux64/workspace/updateapp/Target_Legato_Debug/app/updateapp/staging/read-only/lib/libComponent_updateappComponent.so	d76d2cad768dbb95
+279	339	0	/home/akshay/MYFOLDER/devstudio-5.3.1-linux64/workspace/updateapp/Target_Legato_Debug/app/updateapp/obj/updateapp/updateapp	a3a0488203c0f8cf
+339	346	0	/home/akshay/MYFOLDER/devstudio-5.3.1-linux64/workspace/updateapp/Target_Legato_Debug/app/updateapp/staging/read-only/bin/updateapp	2bb6a2321f17d9b8
+346	366	0	/home/akshay/MYFOLDER/devstudio-5.3.1-linux64/workspace/updateapp/Target_Legato_Debug/app/updateapp/staging/info.properties	7d83b5f6be2b1873
+366	405	0	Target_Legato_Debug/updateapp.wp76xx.update	e3757ba1bbbf76d5
+0	5	0	/home/akshay/MYFOLDER/devstudio-5.3.1-linux64/workspace/updateapp/Target_Legato_Debug/app/updateapp/staging/read-only/lib/libComponent_updateappComponent.so	d76d2cad768dbb95
+0	5	0	/home/akshay/MYFOLDER/devstudio-5.3.1-linux64/workspace/updateapp/Target_Legato_Debug/app/updateapp/staging/read-only/bin/updateapp	2bb6a2321f17d9b8
+5	24	0	/home/akshay/MYFOLDER/devstudio-5.3.1-linux64/workspace/updateapp/Target_Legato_Debug/app/updateapp/staging/info.properties	7d83b5f6be2b1873
+24	66	0	Target_Legato_Debug/updateapp.wp76xx.update	e3757ba1bbbf76d5
