@@ -2,7 +2,7 @@
  * Author : Akshay S Kulkarni
  * Demonstrates SIM TEST
  * Copyright (C) Syratron Technologies Pvt.Ltd Banglore
- * Report Bugs @ -> akshay@syratron.com
+ * Report Bugs to -> akshay@syratron.com
  *
  */
 
